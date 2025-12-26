@@ -103,7 +103,7 @@ if key == keyboard.Key.f9 and not pressed:  # Use F9 instead
 
 ### Plain Mode
 - Input: *"hello world period how are you"*
-- Output: `Hello world. how are you`
+- Output: `Hello world. How are you`
 
 ### Programming Mode
 - Input: *"define a function calculate open parenthesis x comma y close parenthesis colon new line"*
