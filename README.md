@@ -28,7 +28,7 @@ A local-first, low-latency voice dictation system that runs entirely on your mac
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/context-aware-voice-dictation-engine.git
+git clone https://github.com/RGK1305/context-aware-voice-dictation-engine.git
 cd context-aware-voice-dictation
 ```
 
